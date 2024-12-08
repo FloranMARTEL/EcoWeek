@@ -1,0 +1,31 @@
+h1{
+    font-size: 96px;
+}
+
+
+h2{
+    font-size: 64px;
+    color: var(--green_dark) !important;
+}
+
+h3{
+    font-size: 36px;
+    color: var(--green_dark) !important;
+}
+
+/* p{
+    font-size: 14px;
+} */
+
+.date > span{
+    font-size: 20px;
+}
+
+.date > div > span{
+    font-size: 24px;
+}
+.date span > b{
+    font-size: 24px;
+}
+
+
