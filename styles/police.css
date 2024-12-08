@@ -16,6 +16,9 @@ h3{
 /* p{
     font-size: 14px;
 } */
+span{
+    text-align : center;
+}
 
 .date > span{
     font-size: 20px;
