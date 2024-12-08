@@ -46,6 +46,11 @@ h1{
 }
 
 
+i{
+    font-size: 12px;
+    color: gray;
+}
+
 .date, .date > div {
     display: flex;
     flex-direction: column;
