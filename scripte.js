@@ -27,7 +27,7 @@ update_timer = () => {
         heure +=24
         jour = -1
     }
-    jour += endDay.getDate() - curentday.getDay()
+    jour = jour + (endDay.getDate() - curentday.getDate())
 
     // console.log(jour, heure, min, sec)
 
@@ -44,7 +44,6 @@ update_timer = () => {
     }
 
     textcpt += sec.toString()+"s"
-
     text_day.innerHTML = textcpt
 
 }
