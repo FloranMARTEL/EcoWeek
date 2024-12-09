@@ -42,7 +42,7 @@ update_timer = () => {
     if (min > 0){
         textcpt += min.toString()+"min "
     }
-
+    console.log("ok")
     textcpt += sec.toString()+"s"
     text_day.innerHTML = textcpt
 
