@@ -89,6 +89,7 @@ table th {
 table td {
     border-width: 1px 2px 1px 1px;
     min-width: 75px;
+    color: var(--green_dark);
 }
 
 table tr:first-child th {
@@ -199,4 +200,8 @@ footer img{
     .explication > div{
         margin: 0;
     }
+}
+
+img{
+    user-select: none;
 }
