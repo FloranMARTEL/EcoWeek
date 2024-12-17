@@ -1,4 +1,4 @@
-const endDay = new Date('December 17, 2024 8:00:00');
+const endDay = new Date('December 18, 2024 8:00:00');
 
 text_day = document.querySelector("#cpt-day")
 
