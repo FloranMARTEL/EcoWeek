@@ -131,6 +131,7 @@ table tr:last-child td {
     flex-direction: column;
     align-items: center;
     gap:14px;
+    width: 100%;
 }
 
 .explication p ,.explication li{

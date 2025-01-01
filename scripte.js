@@ -53,5 +53,5 @@ function loop(){
     setTimeout(loop,1000); /* rappel après 2 secondes = 2000 millisecondes */
 }
 
-loop()
+//loop()
 
